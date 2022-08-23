@@ -1,1 +1,1 @@
-TrySendEmail
+Hello, this is my C# learning project ! It uses NUnit Framework, .Net 3.1 and different type of locators to send an email using ukr.net post. I tryed to handle catcha, but when you often launch this test, you must manually select catcha pictures. 
